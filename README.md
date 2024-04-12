@@ -32,7 +32,7 @@ Explore GitHub repositories effortlessly with the GitHub Repository Viewer! This
 
 Feel free to modify and expand upon this template to suit your project's needs. Including a README file like this will help users and potential contributors understand your project better and encourage them to explore and contribute to it. Once you've created and customized your README file, commit it along with your project code to GitHub. This will provide a professional and inviting presentation for your GitHub Repository Viewer project. If you have any questions or need further assistance, please let me know!
 
-[Visit our website]([https://www.example.com](https://git-hub-repo-browser-ntqxxlm32.vercel.app/))
+[Visit our website](https://git-hub-repo-browser-ntqxxlm32.vercel.app/)
 
 
 
